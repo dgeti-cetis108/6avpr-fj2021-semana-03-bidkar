@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Semana03Vespertino</string>
+    <string name="ac_main_username">Nombre de usuario</string>
+    <string name="ac_main_passwd">Contraseña</string>
+    <string name="logo_dgeti">Logo DGETI</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
 </resources>
